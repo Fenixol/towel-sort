@@ -22,8 +22,5 @@ module.exports = function towelSort (matrix) {
         })
       }
     });
-    console.log('=========')
-    console.log(matrix_new)
-    console.log('=========')
   return matrix_new
 }
